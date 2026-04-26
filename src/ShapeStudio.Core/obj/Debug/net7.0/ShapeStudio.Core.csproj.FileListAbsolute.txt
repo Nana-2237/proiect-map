@@ -1,0 +1,11 @@
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\bin\Debug\net7.0\ShapeStudio.Core.deps.json
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\bin\Debug\net7.0\ShapeStudio.Core.dll
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\bin\Debug\net7.0\ShapeStudio.Core.pdb
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\obj\Debug\net7.0\ShapeStudio.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\obj\Debug\net7.0\ShapeStudio.Core.AssemblyInfoInputs.cache
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\obj\Debug\net7.0\ShapeStudio.Core.AssemblyInfo.cs
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\obj\Debug\net7.0\ShapeStudio.Core.csproj.CoreCompileInputs.cache
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\obj\Debug\net7.0\ShapeStudio.Core.dll
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\obj\Debug\net7.0\refint\ShapeStudio.Core.dll
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\obj\Debug\net7.0\ShapeStudio.Core.pdb
+E:\teme_dinca\DocumentParser\src\ShapeStudio.Core\obj\Debug\net7.0\ref\ShapeStudio.Core.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ShapeStudio.Wpf/1.0.0": {
+        "dependencies": {
+          "ShapeStudio.Core": "1.0.0"
+        },
+        "runtime": {
+          "ShapeStudio.Wpf.dll": {}
+        }
+      },
+      "ShapeStudio.Core/1.0.0": {
+        "runtime": {
+          "ShapeStudio.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShapeStudio.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapeStudio.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
